@@ -12,3 +12,11 @@ Structure:
 |-- src
     |-- main.rs
 ```
+
+Execute the code
+
+Go to the src directory and execute the following command:
+
+```{powershell}
+rustc main.rs
+```
