@@ -21,8 +21,20 @@ Go to the src directory and execute the following command:
 rustc main.rs
 ```
 
-Output
+Run
 
 ```{powershell}
-Hello, world!
+./main
+```
+
+Create Debug
+
+```{powershell}
+cargo run
+```
+
+Create Release
+
+```{powershell}
+cargo build --release
 ```
