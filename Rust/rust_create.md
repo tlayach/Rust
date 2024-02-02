@@ -20,3 +20,9 @@ Go to the src directory and execute the following command:
 ```{powershell}
 rustc main.rs
 ```
+
+Output
+
+```{powershell}
+Hello, world!
+```
